@@ -1,0 +1,28 @@
+body{
+  background-image: url(https://media.npr.org/assets/img/2021/08/24/gettyimages-83607170_custom-5a6146eee39e0d53395de487b5c4d65487fa0cba.jpg);
+  background-repeat:no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+body{
+  text-align:center;
+}
+h2{ 
+  color:grey;
+}
+em{color: white;}
+h4{
+  color: lavender;
+}
+table,th,td{
+   border: 1px solid black;
+   margin-left: auto;
+  margin-right: auto;
+}
+iframe{
+  width: 200px; 
+  height: 150px;
+}
+img{height: 200px;}
+#table2{border: 1px solid black; background-color:lightblue;
+text-align: left;}
